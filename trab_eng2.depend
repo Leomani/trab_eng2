@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1454459209 source:c:\users\renato\desktop\cod_renato\trab_eng2\main.cpp
+	<iostream>
+	<conio.h>
+	"A.h"
+
+1454459225 c:\users\renato\desktop\cod_renato\trab_eng2\include\a.h
+
+1454458498 source:c:\users\renato\desktop\cod_renato\trab_eng2\src\a.cpp
+
+1454529007 source:c:\users\renato\desktop\codigo_renato\trab_eng2\main.cpp
+	<iostream>
+	<conio.h>
+	"A.h"
+	<string.h>
+
+1454529051 c:\users\renato\desktop\codigo_renato\trab_eng2\include\a.h
+	<string.h>
+	<stdio.h>
+
